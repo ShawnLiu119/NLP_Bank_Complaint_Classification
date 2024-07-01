@@ -25,6 +25,8 @@ The multinomial Naive Bayes classifier is suitable for classification with discr
 
 2. XGBoost (2.0 Version)
 To implement XGBoost for text classification, the first step is to preprocess the text data and extract meaningful features from it, such as term frequency-inverse document frequency (TF-IDF) values. These features are then used as input to the XGBoost model, which is trained on the preprocessed data.
+![image](https://github.com/ShawnLiu119/NLP_Bank_Complaint_Classification/assets/43327902/db5fb90f-53d3-404c-b8bb-571aaf15a67a)
 
-3. LLM - ALBERT fintuning
+
+4. LLM - ALBERT fintuning
 ![image](https://github.com/ShawnLiu119/NLP_Bank_Complaint_Classification/assets/43327902/f8f243d0-461e-4006-a560-20ffb0ad85a3)
